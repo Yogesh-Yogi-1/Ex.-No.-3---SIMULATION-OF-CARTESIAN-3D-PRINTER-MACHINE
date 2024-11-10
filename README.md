@@ -3,9 +3,7 @@
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
-
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/69572917-1257-45d7-bf57-ff48a6e5a711)
-
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
@@ -59,9 +57,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-
-### Name: 
-### Register Number:
+![Screenshot 2024-11-10 225209](https://github.com/user-attachments/assets/eff0331c-1e6f-45e4-b7fa-3319bce7f406)
+### Name: Yogesh. V
+### Register Number: 212223230250
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
